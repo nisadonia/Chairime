@@ -3,8 +3,15 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define fan = Character("Fan-kun")
+define leftChair = Character("Left-Chair-san")
+define rightChair = Character("Right-Chair-san")
+define fridge = Character("Fridge-senpai")
+define lamp = Character("Lamp-senpai")
+define bed = Character("Bed-kun")
+define desk = Character("Desk-sensei")
+define stand = Character("Stand-sensei")
+define me = Character()
 
 # The game starts here.
 
