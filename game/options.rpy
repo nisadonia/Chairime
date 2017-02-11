@@ -18,7 +18,7 @@ define config.name = _("Chairime")
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
@@ -29,8 +29,7 @@ define config.version = "1.0"
 ## Text that is placed on the game's about screen. To insert a blank line
 ## between paragraphs, write \n\n.
 
-define gui.about = _("")
-
+define gui.about = _("BG Credit: \n\nCopyright(C) 2013 Ayaemo Creative Institute\n\nContact: http://ayaemo.skr.jp/ \n\nCreated by Lisa Ni, Florencia Orellana, Felipe Webb, David Quach \n\nStory Collaborator: Claire Noble \n\nInspired by ProZD's harem anime where everyone but the protagonist is sentient furniture")
 
 ## A short name for the game used for executables and directories in the built
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
