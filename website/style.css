@@ -1,4 +1,19 @@
 body {
-	background: url("Cutsy.jpg");
+	background: url("Cutsy.jpg");	
 }
 
+img{
+	max-width:600px;
+	margin: 0 auto;
+}
+
+button{
+	min-width: 5em;
+}
+#buttons{
+	margin: 0 auto;
+	width: 50%;
+	display: inline-block;
+	padding-left: 40%;
+	padding-right: 40%;
+}
