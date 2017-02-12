@@ -6,6 +6,8 @@ Created by Lisa Ni, Florencia Orellana, Felipe Webb, David Quach
 
 Story Collaborator: Claire Noble
 
+Created during BrickHack3 Feb 11-12, 2017
+
 BG Credit: 
 
 Copyright(C) 2013 Ayaemo Creative Institute
